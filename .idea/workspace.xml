@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf52c30-a355-40a1-8341-701e789659e8" name="Changes" comment="cv3_4 done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv4/CV4_2_Zadanie_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv4/CV4_2_Zadanie_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv4/CV4_Predspracovanie.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv4/CV4_Predspracovanie.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv6/machine_learning/outputs/model_accuracies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cv6/machine_learning/outputs/model_accuracies.csv" afterDir="false" />
-    </list>
+    <list default="true" id="7cf52c30-a355-40a1-8341-701e789659e8" name="Changes" comment="Zadanie 1 - dokoncene" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +93,7 @@
       <workItem from="1743419361410" duration="3798000" />
       <workItem from="1743437303617" duration="1395000" />
       <workItem from="1743447445731" duration="330000" />
-      <workItem from="1743505303561" duration="303000" />
+      <workItem from="1743505303561" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="CV2_1_Uvod_Python.ipynb DONE">
       <option name="closed" value="true" />
@@ -116,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741246045613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Zadanie 1 - dokoncene">
+      <option name="closed" value="true" />
+      <created>1743505815403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743505815403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +140,7 @@
     <MESSAGE value="CV2_1_Uvod_Python.ipynb DONE" />
     <MESSAGE value="Finnish" />
     <MESSAGE value="cv3_4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv3_4 done" />
+    <MESSAGE value="Zadanie 1 - dokoncene" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 1 - dokoncene" />
   </component>
 </project>
