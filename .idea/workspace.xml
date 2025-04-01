@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf52c30-a355-40a1-8341-701e789659e8" name="Changes" comment="" />
+    <list default="true" id="7cf52c30-a355-40a1-8341-701e789659e8" name="Changes" comment="cv3_4 done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv4/CV4_2_Zadanie_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv4/CV4_2_Zadanie_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv4/CV4_Predspracovanie.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv4/CV4_Predspracovanie.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv6/machine_learning/outputs/model_accuracies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cv6/machine_learning/outputs/model_accuracies.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Cvicenie2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +57,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;cvicenie4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,31 +67,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="SSBU_25" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,6 +92,13 @@
       <workItem from="1741246118683" duration="3932000" />
       <workItem from="1741849579724" duration="42000" />
       <workItem from="1741849625576" duration="105000" />
+      <workItem from="1742982812361" duration="354000" />
+      <workItem from="1742991338440" duration="2000" />
+      <workItem from="1743059184403" duration="3763000" />
+      <workItem from="1743419361410" duration="3798000" />
+      <workItem from="1743437303617" duration="1395000" />
+      <workItem from="1743447445731" duration="330000" />
+      <workItem from="1743505303561" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="CV2_1_Uvod_Python.ipynb DONE">
       <option name="closed" value="true" />
@@ -134,9 +122,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CV2_1_Uvod_Python.ipynb DONE" />
     <MESSAGE value="Finnish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finnish" />
+    <MESSAGE value="cv3_4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv3_4 done" />
   </component>
 </project>
