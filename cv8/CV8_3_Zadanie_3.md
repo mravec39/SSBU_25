@@ -10,12 +10,17 @@ Dataset obsahuje údaje matky, dcéry a dvoch strýkov, ktorí sú bratmi muža,
 
 **Formulujte hypotézy pre riešenie úlohy:**
 
-#TODO
+H0 - Muž je biologickým otcom dcéry
+HA - Muž nie je biologickým otcom dcéry
 
 ### Úloha 2 (4b)
 
-Vykonajte analýzu pomocou nástroja FamLinkX. Ako referenčnú databázu použite Českú alebo Nemeckú databázu. Ako prílohu zadania odovzdajte vygenerovaný report z analýzy (Case report vo formáte .rtf). 
-
+Vykonajte analýzu pomocou nástroja FamLinkX. Ako referenčnú databázu použite Českú alebo Nemeckú databázu. Ako prílohu zadania odovzdajte vygenerovaný report z analýzy (Case report vo formáte .rtf).
 **Uveďte LR a pravdepodobnosť (W) pre jednotlivé hypotézy a Váš záver analýzy:**
 
-#TODO
+- LR = 7042640
+- W = 0.99999986
+- H0 = 99,999986%
+- HA = 0,0000139%
+- Pravdepodobnosť hypotézy H0 je 99,999986% a hypotézy HA je 0,0000139%
+- H0 hovori, ze treti brat je otcom dcery s pravdepodobnostou 99,999986%
