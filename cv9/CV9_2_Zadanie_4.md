@@ -17,9 +17,9 @@ Normalizujte distribúciu datasetu (pre premenné aj vzorku).
 (Vyberte akúkoľvek kombináciu operácií, ktorá je podľa Vás najlepšia).
 
 **Ktoré operácie ste pri normalizácii použili?**
-Sample normalization: # TODO
-Data Transformation:  # TODO
-Data Scaling:         # TODO
+Sample normalization: Normalization by median
+Data Transformation:  Square root transformation
+Data Scaling:         Auto scaling
 ### Úloha 2 (4b)
 
 Použite ľubovoľné štatistické metódy na analýzu datasetu (napr. t-test, correlations, PCA, PLS-DA, Dendrogram, Heatmap, K-means, RandomForest, ..) 
@@ -27,10 +27,11 @@ Použite ľubovoľné štatistické metódy na analýzu datasetu (napr. t-test, 
 **Uveďte aspoň 4 skutočnosti (z 4 rôznych metód), ktoré ste zistili analýzou datasetu:**
 
 (Napr. Pri použití pearsonovho korelačného koeficientu je najvyššia pozitívna korelácia medzi premennými x a y, a koeficient korelácie je 0.992.)
-1: # TODO
-2: # TODO
-3: # TODO
-4: # TODO
+Použil som PCA analýzu na redukciu rozmernosti a vizualizáciu dát.
+1: V grafoch vidíme, že dve skupiny vzoriek sa čiastočne oddeľujú, najmä v rovine PC1 vs PC2.
+2: PC1 (24.1 %) a PC2 (16.2 %) spolu vysvetľujú 40.3 % variability v dátach.
+3: V PCA score plotoch je viditeľné, že vzorky sa zhlukujú podľa skupín, čo znamená, že medzi skupinami existujú konzistentné rozdiely.
+4.Vizualizácia PCA podporuje hypotézu, že medzi skupinami existujú štrukturálne rozdiely
 
 Vygenerujte report z vykonanej analýzy a celý výsledný zip file odovzdajte ako prílohu k riešeniu zadania.
 
