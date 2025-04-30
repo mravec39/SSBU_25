@@ -28,10 +28,10 @@ Použite ľubovoľné štatistické metódy na analýzu datasetu (napr. t-test, 
 
 (Napr. Pri použití pearsonovho korelačného koeficientu je najvyššia pozitívna korelácia medzi premennými x a y, a koeficient korelácie je 0.992.)
 Použil som PCA analýzu na redukciu rozmernosti a vizualizáciu dát.
-1: V grafoch vidíme, že dve skupiny vzoriek sa čiastočne oddeľujú, najmä v rovine PC1 vs PC2.
-2: PC1 (24.1 %) a PC2 (16.2 %) spolu vysvetľujú 40.3 % variability v dátach.
-3: V PCA score plotoch je viditeľné, že vzorky sa zhlukujú podľa skupín, čo znamená, že medzi skupinami existujú konzistentné rozdiely.
-4.Vizualizácia PCA podporuje hypotézu, že medzi skupinami existujú štrukturálne rozdiely
+1: PCA - V grafoch vidíme, že dve skupiny vzoriek sa čiastočne oddeľujú, najmä v rovine PC1 vs PC2. PC1 (24.1 %) a PC2 (16.2 %) spolu vysvetľujú 40.3 % variability v dátach.
+2: T-test - Štatistická analýza odhalila 104 významne odlišných chemických signálov medzi kontrolnou skupinou a pacientmi so závažným ochorením obličiek.
+3: Random Forest - Model dosiahol OOB chybu 4 %, čo znamená vysokú klasifikačnú presnosť.Kontrolná skupina bola klasifikovaná bezchybne (25/25) a pacienti boli správne určení v 92 % prípadov (23/25).
+4: Orthogonal PLS-DA - Graf ukazuje jasné oddelenie medzi pacientmi a kontrolami pozdĺž osi T score (19 %) a ortogonálnej osi (11.7 %).Model potvrdzuje rozdiely medzi skupinami.
 
 Vygenerujte report z vykonanej analýzy a celý výsledný zip file odovzdajte ako prílohu k riešeniu zadania.
 
